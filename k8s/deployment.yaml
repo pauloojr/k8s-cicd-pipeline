@@ -25,7 +25,7 @@ spec:
 
       - name: nginx
 
-        image: ghcr.io/pauloojr/k8s-cicd-pipeline:2ff0572
+        image: ghcr.io/pauloojr/k8s-cicd-pipeline:263b3d5
 
         imagePullPolicy: Always
 
